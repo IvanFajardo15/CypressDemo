@@ -12,6 +12,7 @@ it('Caso de prueba de tablas', () => {
 
                 const nombrePerro = namePerro.text();
                 expect(nombrePerro).to.equal('Golden Retriever');
+                //Este es un comentario
             })
         }
 
